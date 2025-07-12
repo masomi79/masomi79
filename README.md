@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masomi79
 - 👀 I’m interested in ... building web application
-- 🌱 I’m currently ... learning Vue.js
-- 💞️ I’m looking to collaborate on ... laravel + vue.js systems
+- 🌱 I’m currently ... learning python and Vue.js
+- 💞️ I’m looking to collaborate on ... python + vue.js systems
 - 📫 How to reach me ...
 
 <!---
